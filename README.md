@@ -1,6 +1,6 @@
 Hi,
 
-In many ways I am pretty new to programming, in particular OOP, but I have been writing snippets of code for most of my life
+I am mostly pretty new to programming, in particular OOP, but I have been writing snippets of code for most of my adult life
 for work and personal projects. I took some programming in Uni 20 years ago, but a lot has changed since then. In March of 2020
 I decided to carry on where I left off, and signed up for a software development program using Java, which was a brand new language 
 when I first starting learning it :-). I have since started expanding into additional languages and some web programming and am loving it.
