@@ -9,9 +9,12 @@ These days, I work primarily with JavaScript, and React, but have been experimen
 My website is really a space to experiment with new tools and practice new techniques. It is rarely in any kind of polished shape and has been redeveloped and redeployed countless times. 
 
 - I'm particularly interested in development of finance tools to make personal investing easier and more transparent. I take a value approach
-to investing and want to have a better toolkit for evaluating the fundamentals, a way to reduce some of the grunt work. 
-- I'm also generally interested in the idea of "automating the boring stuff" in my life. Much like anyone reading this, I'm sure, I'm more
-interested in my projects than I am the monotony of daily life. I always love to hear about projects to automate some of that away. 
+to investing and want to have a better toolkit for evaluating the fundamentals, a way to reduce some of the grunt work.
+- Having worked most of my professional career in Engineering and Project Management roles, I am always curious about adding new tools to automate
+repetitive tasks and to solve complex problems in a transparent and replicable fashion.   
+- I'm generally interested in the idea of "automating the boring stuff" in my life. My current pet project is creating a database of easy to prep
+meals with a menu planner ui to make that process a little easier. Does anyone else ever feel like the more effort you put into supper, the less
+your kids enjoy it? If I had an extra \u00A3248,000 I suppose I could just buy a kitchen bot ... 
 
 <!---
 hughgrenfell/hughgrenfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
