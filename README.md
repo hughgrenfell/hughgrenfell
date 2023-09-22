@@ -14,7 +14,7 @@ to investing and want to have a better toolkit for evaluating the fundamentals, 
 repetitive tasks and to solve complex problems in a transparent and replicable fashion.   
 - I'm generally interested in the idea of "automating the boring stuff" in my life. My current pet project is creating a database of easy to prep
 meals with a menu planner ui to make that process a little easier. Does anyone else ever feel like the more effort you put into supper, the less
-your kids enjoy it? If I had an extra \u00A3248,000 I suppose I could just buy a kitchen bot ... 
+your kids enjoy it? If I had an extra &#1633248,000 I suppose I could just buy a kitchen bot ... 
 
 <!---
 hughgrenfell/hughgrenfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
