@@ -4,7 +4,7 @@ I have been writing snippets of code for most of my adult life for work and pers
 I decided to carry on where I left off, and signed up for a software development certificate program using Java and SQL. I really wanted to take my understanding of programming to the next level, including getting deeper into
 OOP. I have since started expanding into additional languages and some web programming and am loving it.
 
-These days, I work primarily with JavaScript, and React, but have been experimenting lately with NextJS, NextAuth, Prisma, and Tailwind.
+These days, I work primarily with JavaScript, and React, and have been experimenting with NextJS, NextAuth, Prisma, and Tailwind.
 
 My website is really a space to experiment with new tools and practice new techniques. It is rarely in any kind of polished shape and has been redeveloped and redeployed countless times. 
 
